@@ -1,3 +1,0 @@
-Error reading the options file: options.dat
-Error reading the highscore file: scores.dat
-Creating new one in memory
